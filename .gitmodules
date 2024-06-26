@@ -1,0 +1,12 @@
+[submodule "thirdparty/UBytesAppPlatform"]
+	path = thirdparty/UBytesAppPlatform
+	url = https://github.com/UnstableBytes/AppPlatform
+[submodule "thirdparty/phoenix"]
+	path = thirdparty/phoenix
+	url = https://github.com/GothicKit/phoenix
+[submodule "thirdparty/rapidjson"]
+	path = thirdparty/rapidjson
+	url = https://github.com/Tencent/rapidjson
+[submodule "thirdparty/fmt"]
+	path = thirdparty/fmt
+	url = https://github.com/fmtlib/fmt
